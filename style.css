@@ -1,0 +1,17 @@
+.container {
+    font-family: 'Sniglet', cursive;
+}
+.ct1{
+    font-weight: bold;
+    margin-bottom: 90px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.ct2{
+    margin-bottom: 45px;
+}
+.card{
+    border: none;
+}
+
+
